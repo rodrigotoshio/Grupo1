@@ -38,4 +38,4 @@ Este projeto é uma aplicação backend desenvolvida em Java com Spring Boot par
 
 📁 Estrutura do Projeto
 
-file:///C:/Users/SEDUC%20DEST1/Pictures/IMG_20241223_215034_569.png
+
