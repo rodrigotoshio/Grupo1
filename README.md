@@ -1,10 +1,10 @@
-# 🎉 Sistema de Gerenciamento de Eventos
+Sistema de Gerenciamento de Eventos
 
 Este projeto é uma aplicação backend desenvolvida em Java com Spring Boot para o gerenciamento de eventos e participantes. Ele permite criar eventos, realizar inscrições com controle de vagas e acompanhar os participantes de cada evento.
 
 ---
 
-## 🚀 Funcionalidades
+  Funcionalidades
 
 ### 📅 Eventos
 - Criar evento (nome, descrição, data, local, número de vagas)
@@ -12,19 +12,19 @@ Este projeto é uma aplicação backend desenvolvida em Java com Spring Boot par
 - Atualizar informações de um evento
 - Excluir evento
 
-### 👥 Participantes
+👥 Participantes
 - Cadastro de participante (nome, e-mail, telefone)
 - Inscrição em evento (com verificação de vagas disponíveis)
 - Cancelamento de inscrição
 - Listar participantes de um evento
 
-### 🔗 Relacionamentos
+🔗 Relacionamentos
 - Um evento pode ter vários participantes
 - Um participante pode se inscrever em vários eventos
 
 ---
 
-## 🧪 Tecnologias utilizadas
+🧪 Tecnologias utilizadas
 
 - Java 17+
 - Spring Boot
@@ -36,4 +36,6 @@ Este projeto é uma aplicação backend desenvolvida em Java com Spring Boot par
 
 ---
 
-## 📁 Estrutura do Projeto
+📁 Estrutura do Projeto
+
+file:///C:/Users/SEDUC%20DEST1/Pictures/IMG_20241223_215034_569.png
